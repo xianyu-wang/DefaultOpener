@@ -34,7 +34,7 @@ brew install duti
 
 ### Option 1: Pre-built Release (Recommended)
 
-1.  Go to the [Releases](https://github.com/yourusername/DefaultOpener/releases) page.
+1.  Go to the [Releases](https://github.com/xianyu-wang/DefaultOpener/releases) page.
 2.  Download the latest `.dmg` or `.app` zip file.
 3.  Drag **DefaultOpener.app** to your **Applications** folder.
 4.  **Permissions**: On first launch, if the system requests permission for automation or controlling other apps (to access `duti`), please **allow** it.
